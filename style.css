@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+/* Add more CSS styles to customize your portfolio as needed */
